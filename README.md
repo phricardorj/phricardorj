@@ -27,7 +27,7 @@
 
 <br>
 
-> 💻 Especializando-se em Full Stack na Let's Code [Santander Coders] (Typescript, Angular, Java e Banco de Dados).<br>
+> 💻 Desenvolvedor de Software na Luizalabs (Typescript, Angular, Java e Banco de Dados).<br>
 > 🎓 Bacharelando em Sistemas de Informação no Cefet/RJ.<br>
 > 💚 Sou apaixonado por tecnologia, adoro escrever e meu maior objetivo é viver de código.<br>
 > 👨‍💻 Se meu computador estiver ligado, certamente, o Visual Studio Code estará aberto. <br>
