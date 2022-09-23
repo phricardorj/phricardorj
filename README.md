@@ -27,7 +27,7 @@
 
 <br>
 
-> 💻 Desenvolvedor de Software na Luizalabs (Typescript, Angular, Java e Banco de Dados).<br>
+> 💻 Desenvolvedor de Software no Luizalabs<br>
 > 🎓 Bacharelando em Sistemas de Informação no Cefet/RJ.<br>
 > 💚 Sou apaixonado por tecnologia, adoro escrever e meu maior objetivo é viver de código.<br>
 > 👨‍💻 Se meu computador estiver ligado, certamente, é porque estou resolvendo Bugs. <br>
