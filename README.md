@@ -1,15 +1,15 @@
 ## Greetings! My name is Pedro Ricardo 💚
 
 <div style="display: flex">
-<img src = "https://komarev.com/ghpvc/?username=phricardorj&label=Profile%20views&color=brightgreen" alt="phricardorj"  style="float:right, margin-right:10px"/>
-<img src="https://img.shields.io/github/followers/phricardorj?label=Follow&color=brightgreen" alt="phricardorj" style="float:left" />
+<img src = "https://komarev.com/ghpvc/?username=phricardorj&label=Profile%20views&color=00ee64" alt="phricardorj"  style="float:right, margin-right:10px"/>
+<img src="https://img.shields.io/github/followers/phricardorj?label=Follow&color=00ee64" alt="phricardorj" style="float:left" />
 </div>
 
 <br>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phricardorj&title_color=00fd13&text_color=fff&icon_color=fff&bg_color=181818" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phricardorj&show_icons=true&title_color=00fd13&text_color=fff&icon_color=00fd13&bg_color=181818" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phricardorj&title_color=00ee64&text_color=fff&icon_color=fff&bg_color=181818" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phricardorj&show_icons=true&title_color=00ee64&text_color=fff&icon_color=00ee64&bg_color=181818" />
 </div>
 
 <br>
