@@ -1,4 +1,4 @@
-## Greetings! My name is Pedro Ricardo 💚
+## Hi! My name is Pedro Ricardo 💚
 
 <div style="display: flex">
 <img src = "https://komarev.com/ghpvc/?username=phricardorj&label=Profile%20views&color=00ee64" alt="phricardorj"  style="float:right, margin-right:10px"/>
