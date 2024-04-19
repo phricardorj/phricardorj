@@ -9,23 +9,23 @@
 
 ```java
 public class Developer {
-    private String name;
-    private String occupation;
-
-   public Developer(String name, String occupation) {
-        this.name = name;
-        this.occupation = occupation;
-  }
-}
-
-public class Profile extends Developer {
     private String job;
     private String location;
 
+    public Developer(String job, String location) {
+       this.job = job;
+       this.location = location;
+    }
+}
+
+public class Profile extends Developer {
+    private String name;
+    private String occupation;
+
     public Profile() {
-        super("Pedro Ricardo", "Software Engineer");
-        this.job = "Magalu - Luizalabs";
-        this.location = "Rio de Janeiro / RJ";
+        super("Software Engineer at Luizalabs / Magalu", "Rio de Janeiro / RJ");
+        this.name = "Pedro Ricardo";
+        this.occupation = "Software Engineer";
     }
 }
 ```
