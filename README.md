@@ -10,11 +10,11 @@
 ```java
 public class Developer {
     private String name;
-    private String area;
+    private String occupation;
 
-   public Developer(String name, String area) {
+   public Developer(String name, String occupation) {
         this.name = name;
-        this.area = area;
+        this.occupation = occupation;
   }
 }
 
