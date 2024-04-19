@@ -1,9 +1,34 @@
-## Hi! My name is Pedro Ricardo 💚
+## Hi! 💚
 
 <div style="display: flex">
 <img src = "https://komarev.com/ghpvc/?username=phricardorj&label=Profile%20views&color=00ee64" alt="phricardorj"  style="float:right, margin-right:10px"/>
 <img src="https://img.shields.io/github/followers/phricardorj?label=Follow&color=00ee64" alt="phricardorj" style="float:left" />
 </div>
+
+<br>
+
+```java
+public class Developer {
+    private String name;
+    private String area;
+
+   public Developer(String name, String area) {
+        this.name = name;
+        this.area = area;
+  }
+}
+
+public class Profile extends Developer {
+    private String job;
+    private String location;
+
+    public Profile() {
+        super("Pedro Ricardo", "Software Engineer");
+        this.job = "Magalu - Luizalabs";
+        this.location = "Rio de Janeiro / RJ";
+    }
+}
+```
 
 <br>
 
