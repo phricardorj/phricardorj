@@ -8,16 +8,19 @@
 <br>
 
 ```java
+import lombok.Data;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class Developer {
     private String job;
     private String location;
-
-    public Developer(String job, String location) {
-       this.job = job;
-       this.location = location;
-    }
 }
 
+@Data
 public class Profile extends Developer {
     private String name;
     private String occupation;
