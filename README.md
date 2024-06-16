@@ -21,6 +21,7 @@ public class Developer {
 }
 
 @Data
+@NoArgsConstructor
 public class Profile extends Developer {
     private String name;
     private String occupation;
