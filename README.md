@@ -52,14 +52,7 @@ public class Profile extends Developer {
     <img align="center" alt="phricardorj-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="phricardorj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="phricardorj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-<br>
-
-> 💻 Desenvolvedor de Software no Luizalabs<br>
-> 🎓 Bacharelando em Sistemas de Informação no Cefet/RJ.<br>
-> 💚 Sou apaixonado por tecnologia, adoro escrever e meu maior objetivo é viver de código.<br>
-> 👨‍💻 Se meu computador estiver ligado, certamente, é porque estou resolvendo e criando novos Bugs. <br>
+</img>
 
 <br>
 
